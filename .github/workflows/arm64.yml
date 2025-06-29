@@ -1,4 +1,4 @@
-name: ARM64 Pull and Save Docker Image
+name: 5G ARM64 Docker Images
 
 on:
   workflow_dispatch:
