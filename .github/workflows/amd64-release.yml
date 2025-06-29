@@ -1,4 +1,4 @@
-name: Get-AMD64-Docker-Images-Release
+name: 2G-AMD64-Docker-Images
 
 on:
   workflow_dispatch:
