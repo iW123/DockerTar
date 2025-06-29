@@ -1,4 +1,4 @@
-name: Get-ARM32-Docker-Images-Release
+name: 2G-ARM32-Docker-Images
 
 on:
   workflow_dispatch:
